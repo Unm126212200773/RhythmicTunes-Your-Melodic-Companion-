@@ -18,6 +18,7 @@ function App() {
  
           <div>
           <Routes>
+            <Route path='/' element={<Songs/>} />
             <Route path='/songs' element={<Songs/>} />
             <Route path='/favorities' element={<Favorities/>} />
             <Route path='/playlist' element={<Playlist/>} />

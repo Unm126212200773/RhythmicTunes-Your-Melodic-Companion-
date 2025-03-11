@@ -30,7 +30,7 @@
       "singer": "B Praak",
       "genre": "Emotional",
       "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+      "songUrl": "public/Songs/Vazhithunaiye - Masstamilan.mp3"
     },
     {
       "id": 5,
@@ -63,38 +63,10 @@
       "title": "Saari Duniya Jalaa Denge",
       "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
       "genre": "Emotional",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "songUrl": "public/Songs/Vazhithunaiye - Masstamilan.mp3",
       "singer": "B Praak",
       "id": 6
     }
   ],
-  "playlist": [
-    {
-      "itemId": 6,
-      "title": "Tum Hi Ho",
-      "imgUrl": "https://lyrichindi.com/wp-content/uploads/2023/09/desktop-wallpaper-meri-aashiqui-tum-hi-ho-tum-hi-ho.jpg",
-      "genre": "Emotional",
-      "songUrl": "Songs/Tum Hi Ho.mp3",
-      "singer": "Arijit Singh",
-      "id": 4
-    },
-    {
-      "itemId": 4,
-      "title": "Saari Duniya Jalaa Denge",
-      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
-      "genre": "Emotional",
-      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
-      "singer": "B Praak",
-      "id": 6
-    },
-    {
-      "itemId": 2,
-      "title": "Chaleya",
-      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
-      "genre": "Romantic",
-      "songUrl": "Songs/chaleya.mp3",
-      "singer": "Arijit Singh",
-      "id": 7
-    }
-  ]
+  "playlist": []
 }
